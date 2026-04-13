@@ -1,0 +1,5 @@
+{
+  "name": "BTC Market Sentinel 2026",
+  "description": "Real-time Bitcoin monitoring dashboard with RSI indicators and automated trading signals based on 2026 market logic.",
+  "requestFramePermissions": []
+}
